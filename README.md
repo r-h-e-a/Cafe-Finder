@@ -38,6 +38,10 @@ You can view a **live demo** here:
 ## Screenshots
 
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/257bda0b-15a0-4c96-a8c5-a6a3889e59be" />
+<img width="1900" height="865" alt="image" src="https://github.com/user-attachments/assets/8844646e-185d-4ceb-9aac-659436379157" />
+<img width="488" height="748" alt="image" src="https://github.com/user-attachments/assets/6e7f0651-1d63-400e-a257-d1a09c8dcdd0" />
+<img width="1900" height="867" alt="image" src="https://github.com/user-attachments/assets/919c89c3-acaf-4c0d-aa7b-032471c89f4a" />
+
 
 
 

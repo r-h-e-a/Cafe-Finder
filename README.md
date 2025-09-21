@@ -17,13 +17,6 @@ An interactive web map that shows nearby **cafes, restaurants, and dessert/ice c
 - Color-coded categories for easy navigation.
 
 
----
-
-## Demo
-
-You can view a **live demo** here:  
-[Live Demo](https://r-h-e-a>.github.io/one-stop-grub/)
-
 
 ---
 
